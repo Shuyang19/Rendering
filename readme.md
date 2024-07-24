@@ -6,3 +6,5 @@ multiple importance sampling
 photon mapping
 ...
 for redndering
+
+:imp:
